@@ -10,7 +10,7 @@
   <a href="your-linkedin-URL"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a>
 </div>
   <div id="badges" align="center">
-  <span><u>Feel free to reach out to me at <a href="https://github.com/hannapleshko/github-readme-stats">minkostas@gmail.com </a></span>
+  <span><u>Feel free to reach out to me at <a href="https://github.com/StanislavM31">minkostas@gmail.com </a></span>
 </div>
 <!--
 **StanislavM31/StanislavM31** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

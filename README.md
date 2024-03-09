@@ -7,8 +7,9 @@
  </div>
 </div>
   <div id="badges" align="center">
-  <a href="your-linkedin-URL"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a>
+   <a href="www.linkedin.com/in/minkostanislav"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a>
 </div>
+<div>
 <div>
  <p>- Hands-on experience with client-server architectures, networking protocols, developing web services, and accessing databases, strong understanding of object-oriented programming principles, implementation of SOLID and adherence to the REST principle</p>
  <p>- Familarity with Node.js, Express, React, Redux, Redux-Toolkit, RTK Query, HTML/HTML5, CSS/CSS3, LESS, SASS</p>

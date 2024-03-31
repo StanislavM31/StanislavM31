@@ -15,10 +15,9 @@
     <a href="https://www.linkedin.com/in/minkostanislav">
      <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a>
      <a href="https://t.me/minkostas">
-       <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/> 
-     </a>
+       <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/></a>
      <img src="https://komarev.com/ghpvc/?username=StanislavM31&style=for-the-badge&color=blue" alt="StanislavM31" />
-    <img src="https://www.codewars.com/users/Minko%20Stanislav/badges/large" alt="Codewars Badges (Micro)" style="height: 28px">
+    <img src="https://www.codewars.com/users/rsschool_3524734e95964717/badges/large" alt="Codewars Badges (Micro)" style="height: 28px">
    </div>
 </div>
 <!-- <div>
